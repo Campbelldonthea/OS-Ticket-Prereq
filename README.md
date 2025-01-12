@@ -96,7 +96,7 @@ For licensing, please check the box.
 <img src="https://i.imgur.com/zNl5fus.png"/>
 </p>
 <p>
-Please note that the system pre-fills most tabs, and at this point, you will not need to make any changes or adjustments.
+Please note that the system pre-fills most tabs, and at this point, you will not need to make any changes or adjustments. Click Next until you reach the review and creatre section.
 </p>
 <br />
 
