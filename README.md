@@ -34,7 +34,7 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 <p>
 To create a virtual machine in Azure, navigate to the Virtual Machines section and click the "Create" dropdown button, highlighted in blue.
 </p>
-<br />\
+<br />
 
 <img src="https://i.imgur.com/Nk76zt5.png"/>
 
@@ -42,7 +42,7 @@ To create a virtual machine in Azure, navigate to the Virtual Machines section a
 <p>
 Select Azure Virtual Machine on the dropdown menu.
 </p>
-<br />\
+<br />
 
 
 <p>
