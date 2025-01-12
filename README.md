@@ -83,3 +83,11 @@ Select a virtual machine size that includes at least 2 vCPUs to ensure sufficien
 Fill out the username and password fields, ensuring that the password meets the required security criteria, such as including a mix of uppercase and lowercase letters, numbers, and special characters for better protection.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/oxVaHJj.pn"/>
+</p>
+<p>
+For licensing, please check the box.
+</p>
+<br />
