@@ -194,7 +194,7 @@ Now, navigate to the Control Panel on your VM, notice the "Programs," section an
 <br />
 
 <p>
-<img src="https://i.imgur.com/RkL3bde.pn"/>
+<img src="https://i.imgur.com/RkL3bde.png"/>
 </p>
 <p>
 Now, navigate to the Control Panel on your VM, notice the "Programs," section and then choose "Uninstall a program," highlighted in blue underneath "Programs."
@@ -202,7 +202,7 @@ Now, navigate to the Control Panel on your VM, notice the "Programs," section an
 <br />
 
 <p>
-<img src="https://i.imgur.com/RkL3bde.pn"/>
+<img src="https://i.imgur.com/RkL3bde.png"/>
 </p>
 <p>
 In the next window, select "Turn Windows features on or off." Located on the left side of the menu.
