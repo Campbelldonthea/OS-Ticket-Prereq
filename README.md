@@ -19,7 +19,7 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 
 <h2>List of Prerequisites</h2>
 
-- IIS (Internet Information Services) W/ CGI
+- IIS (Internet Information Services) ## W/ CGI
 - PHP Manager for IIS
 - Microsoft URL Rewrite Module for IIS (x64)
 - PHP 7.3.8 Non-Thread Safe (NTS) for Windows (x86)
