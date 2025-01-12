@@ -154,7 +154,7 @@ You should now be logging into the virtual machine on your desktop.
 <img src="https://i.imgur.com/q19BpWf.png"/>
 </p>
 <p>
-Once you are on the virtual machine desktop, open Internet Explorer, navigate to Google, and download all required files.
+Once you are on the virtual machine desktop, open Microsoft Edge, and download all required files.
 </p>
 <br />
 
