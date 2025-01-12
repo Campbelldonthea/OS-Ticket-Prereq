@@ -123,3 +123,45 @@ Now, review and create Virtual Machine, and notice it states "Deployment in prog
 Congratulations! If all allocations are correct, you will have successfully created a virtual machine on your resource page with a valid IP address.
 </p>
 <br />
+
+<h2>Installation Step 2: How to Connect to Remote Desktop and Install the osTicket Requirements. </h2>
+
+<p>
+<img src="https://i.imgur.com/5QHNzKD.png"/>
+</p>
+<p>
+Open Remote Desktop on your computer, enter the public IP address of the virtual machine previously created on Azure, and press Connect.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PeMqNl3.png"/>
+</p>
+<p>
+Enter the secure username and password you created earlier and press Enter.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/VHiOCR6.png"/>
+</p>
+<p>
+You should now be logging into the virtual machine on your desktop.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/q19BpWf.png"/>
+</p>
+<p>
+Once you are on the virtual machine desktop, open Internet Explorer, navigate to Google, and download all required files.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oTfuD6T.png"/>
+</p>
+<p>
+From this link [https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0]
+</p>
+<br />
