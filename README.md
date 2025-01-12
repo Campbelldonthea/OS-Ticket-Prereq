@@ -68,4 +68,18 @@ Select, the image Windows 10
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/mSZUu9b.png"/>
+</p>
+<p>
+Select a virtual machine size that includes at least 2 vCPUs to ensure sufficient processing power for your needs.
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/0weHDLA.png"/>
+</p>
+<p>
+Fill out the username and password fields, ensuring that the password meets the required security criteria, such as including a mix of uppercase and lowercase letters, numbers, and special characters for better protection.
+</p>
+<br />
