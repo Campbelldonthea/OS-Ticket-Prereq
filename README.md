@@ -26,7 +26,17 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 - Microsoft Visual C++ 2015-2019 Redistributable (x86)
 - MySQL Community Server 5.5.62
 
-<h2>Installation Step 1: </h2>
+<h2>Installation Step 1: Setup a Virtual Machine in Azure </h2>
+
+<p>
+<img src="https://i.imgur.com/fQ0LMOl.png"/>
+<img src="https://i.imgur.com/Nk76zt5.png"/>
+
+</p>
+<p>
+To create a virtual machine in Azure, navigate to the Virtual Machines section and click the "Create" dropdown button, highlighted in blue. Select Azure Virtual Machine on the dropdown menu.
+</p>
+<br />\
 
 <p>
 <img src="https://i.imgur.com/fQ0LMOl.png"/>
