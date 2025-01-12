@@ -15,7 +15,7 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 November 2021 Update (Version 21H2)
 
 <h2>List of Prerequisites</h2>
 
