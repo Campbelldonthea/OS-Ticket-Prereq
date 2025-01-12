@@ -19,11 +19,12 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS (Internet Information Services) W/ CGI
+- PHP Manager for IIS
+- Microsoft URL Rewrite Module for IIS (x64)
+- PHP 7.3.8 Non-Thread Safe (NTS) for Windows (x86)
+- Microsoft Visual C++ 2015-2019 Redistributable (x86)
+- MySQL Community Server 5.5.62
 
 <h2>Installation Steps</h2>
 
