@@ -181,7 +181,7 @@ Once files have been downloaded, navigate to your downloaded file, right click a
 <img src="https://i.imgur.com/HsZThTq.png"/>
 </p>
 <p>
-Select destination folder for desktop and press extract.
+Select destination folder and nevigate to desktop and press extract.
 </p>
 <br />
 
