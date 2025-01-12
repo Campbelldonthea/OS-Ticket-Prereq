@@ -29,10 +29,18 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 <h2>Installation Step 1: Setup a Virtual Machine in Azure </h2>
 
 <p>
+<img src="https://i.imgur.com/Dz7njNQ.png"/>
+</p>
+<p>
+To create a virtual machine in Azure, navigate to the Virtual Machines section.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/fQ0LMOl.png"/>
 </p>
 <p>
-To create a virtual machine in Azure, navigate to the Virtual Machines section and click the "Create" dropdown button, highlighted in blue.
+Next, click the "Create" dropdown button, highlighted in blue.
 </p>
 <br />
 
@@ -105,5 +113,13 @@ Please note that the system pre-fills most tabs, and at this point, you will not
 </p>
 <p>
 Now, review and create Virtual Machine, and notice it states "Deployment in progress".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KIOXPBJ.png"/>
+</p>
+<p>
+Congratulations! If all allocations are correct, you will have successfully created a virtual machine on your resource page with a valid IP address.
 </p>
 <br />
