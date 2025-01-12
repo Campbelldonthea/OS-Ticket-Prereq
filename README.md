@@ -173,7 +173,7 @@ Utilizing this link, we will install the requirements needed to set up osTicket.
 <img src="https://i.imgur.com/P8gzBzq.png"/>
 </p>
 <p>
-Once files have been downloaded right click and select extract all.
+Once files have been downloaded navigate to your downloaded file and right click and select extract all.
 </p>
 <br />
 
