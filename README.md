@@ -56,7 +56,15 @@ Next, enter the project details in the resource group and name it "OS-Ticket."
 <img src="https://i.imgur.com/lIfT0RL.png"/>
 </p>
 <p>
-Next, name the VM "OSticket-vm."
+Next, name the VM "OSticket-vm"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KES4AI6.png"/>
+</p>
+<p>
+Select, the image Windows 10
 </p>
 <br />
 
