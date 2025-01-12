@@ -89,6 +89,7 @@ Fill out the username and password fields, ensuring that the password meets the 
 </p>
 <p>
 For licensing, please check the box.
+Please note that the system pre-fills most tabs, and at this point, you will not need to make any changes or adjustments.
 </p>
 <br />
 
@@ -96,7 +97,6 @@ For licensing, please check the box.
 <img src="https://i.imgur.com/zNl5fus.png"/>
 </p>
 <p>
-Please note that the system pre-fills most tabs, and at this point, you will not need to make any changes or adjustments.
 </p>
 <br />
 
