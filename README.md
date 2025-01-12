@@ -85,7 +85,7 @@ Fill out the username and password fields, ensuring that the password meets the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/oxVaHJj.pn"/>
+<img src="https://i.imgur.com/oxVaHJj.png"/>
 </p>
 <p>
 For licensing, please check the box.
