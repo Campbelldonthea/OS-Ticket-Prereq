@@ -91,3 +91,19 @@ Fill out the username and password fields, ensuring that the password meets the 
 For licensing, please check the box.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zNl5fus.png"/>
+</p>
+<p>
+Please note that the system pre-fills most tabs, and at this point, you will not need to make any changes or adjustments.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/d2bOUvT.png"/>
+</p>
+<p>
+Now, review and create Virtual Machine, and notice it states "Deployment in progress".
+</p>
+<br />
