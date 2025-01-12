@@ -166,3 +166,45 @@ Utilizing this link, we will install the requirements needed to set up osTicket.
 [https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0]
 </p>
 <br />
+
+<h2>Installation Step 3: How to Install the OS Ticket requirements </h2>
+
+<p>
+<img src="https://i.imgur.com/P8gzBzq.png"/>
+</p>
+<p>
+Once files have been downloaded right click and select extract all.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/HsZThTq.png"/>
+</p>
+<p>
+Select destination folder for desktop and press extract.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kEgCfjH.png"/>
+</p>
+<p>
+Now, navigate to the Control Panel on your VM, notice the "Programs," section and then choose "Uninstall a program," highlighted in blue underneath "Programs."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RkL3bde.pn"/>
+</p>
+<p>
+Now, navigate to the Control Panel on your VM, notice the "Programs," section and then choose "Uninstall a program," highlighted in blue underneath "Programs."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RkL3bde.pn"/>
+</p>
+<p>
+In the next window, select "Turn Windows features on or off." Located on the left side of the menu.
+</p>
+<br />
