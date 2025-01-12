@@ -30,21 +30,20 @@ This tutorial provides a detailed overview of the prerequisites and step-by-step
 
 <p>
 <img src="https://i.imgur.com/fQ0LMOl.png"/>
-<img src="https://i.imgur.com/Nk76zt5.png"/>
-
-</p>
-<p>
-To create a virtual machine in Azure, navigate to the Virtual Machines section and click the "Create" dropdown button, highlighted in blue. Select Azure Virtual Machine on the dropdown menu.
-</p>
-<br />\
-
-<p>
-<img src="https://i.imgur.com/fQ0LMOl.png"/>
 </p>
 <p>
 To create a virtual machine in Azure, navigate to the Virtual Machines section and click the "Create" dropdown button, highlighted in blue.
 </p>
-<br />
+<br />\
+
+<img src="https://i.imgur.com/Nk76zt5.png"/>
+
+</p>
+<p>
+Select Azure Virtual Machine on the dropdown menu.
+</p>
+<br />\
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
