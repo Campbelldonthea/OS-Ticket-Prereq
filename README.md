@@ -162,6 +162,7 @@ Once you are on the virtual machine desktop, open Microsoft Edge, and download a
 <img src="https://i.imgur.com/oTfuD6T.png"/>
 </p>
 <p>
-From this link [https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0]
+Utilizing this link, we will install the requirements needed to set up osTicket.
+[https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0]
 </p>
 <br />
