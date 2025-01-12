@@ -36,14 +36,21 @@ To create a virtual machine in Azure, navigate to the Virtual Machines section a
 </p>
 <br />
 
+<p>
 <img src="https://i.imgur.com/Nk76zt5.png"/>
-
 </p>
 <p>
-Select Azure Virtual Machine on the dropdown menu.
+Select "Azure Virtual Machine" on the dropdown menu.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/DiHCgLV.png"/>
+</p>
+<p>
+Next, enter the project details in the resource group and name it "OS-Ticket."
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
