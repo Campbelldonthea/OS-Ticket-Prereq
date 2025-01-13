@@ -319,4 +319,99 @@ Once done start and stop services to reset PHP.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/qIiVKGw.png"/>
+</p>
+<p>
+In IIS Manager, navigate to the Connections tab and select the "Default Web Site."
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/AmJ3Hen.png"/>
+</p>
+<p>
+Now, on the right-hand tab under "Manage folder," select "Browse *80 (HTTP)."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2vz2Do9.png"/>
+</p>
+<p>
+If everything is correct so far, it should take you to the osTicket installer.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wPI5kE3.png"/>
+</p>
+<p>
+Head back to the PHP manager and select PHP extensions.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JLtuTGk.png"/>
+</p>
+<p>
+Make sure the correct ones are enabled.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/M24mZOp.png"/>
+</p>
+<p>
+On your Windows C drive, navigate to `inetpub > wwwroot > osTicket > include`.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WDc3Dev.png"/>
+</p>
+<p>
+Navigate down to the file named ost-sampleconfig.php 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Yr44cgc.png"/>
+</p>
+<p>
+change this to ost-config.php.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kMNBNy2.png"/>
+</p>
+<p>
+Next, right click on folder and open properties.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/J4hzMxK.png"/>
+</p>
+<p>
+Select, Advanced.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/NBzgSDn.png"/>
+</p>
+<p>
+Select, Disable.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8kPyT70.png"/>
+</p>
+<p>
+Select, remove all inheritance.
+</p>
+<br />
