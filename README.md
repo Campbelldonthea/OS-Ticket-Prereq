@@ -198,5 +198,43 @@ Now, navigate to the Control Panel on your VM, notice the "Programs," section an
 </p>
 <p>
 In the next window, select "Turn Windows features on or off." Located on the left side of the menu.
+
+<p>
+<img src="https://i.imgur.com/DAsvV7c.png"/>
+</p>
+<p>
+When the "Turn Windows features on or off" window opens, expand "Internet Information Services."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OrmkRF3.png"/>
+</p>
+<p>
+When the "Expand "Application Development Features," select "CGI," press "OK," and allow the system to update."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RJ4dkQ3.png"/>
+</p>
+<p>
+From your desktop, open the file folder that was downloaded.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SuWaYMU.png"/>
+</p>
+<p>
+Extract and install PHP Manger.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CGLgwDz.png"/>
+</p>
+<p>
+Rewrite AMD file
 </p>
 <br />
