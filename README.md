@@ -211,7 +211,7 @@ When the "Turn Windows features on or off" window opens, expand "Internet Inform
 <img src="https://i.imgur.com/OrmkRF3.png"/>
 </p>
 <p>
-When the "Expand "Application Development Features," select "CGI," press "OK," and allow the system to update."
+Expand "Application Development Features," select "CGI," press "OK," and allow the system to update."
 </p>
 <br />
 
