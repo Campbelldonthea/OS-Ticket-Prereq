@@ -320,7 +320,7 @@ Once done start and stop services to reset PHP.
 <br />
 
 <p>
-<img src="https://i.imgur.com/qIiVKGw.png"/>
+<img src="https://i.imgur.com/qIiVKGw.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
 In IIS Manager, navigate to the Connections tab and select the "Default Web Site."
@@ -328,7 +328,7 @@ In IIS Manager, navigate to the Connections tab and select the "Default Web Site
 <br />
 
 <p>
-<img src="https://i.imgur.com/AmJ3Hen.png"/>
+<img src="https://i.imgur.com/AmJ3Hen.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
 Now, on the right-hand tab under "Manage folder," select "Browse *80 (HTTP)."
