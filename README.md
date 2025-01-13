@@ -422,28 +422,31 @@ Select, remove all inherited permissions from this object.
 <img src="https://i.imgur.com/2vyi0JU.png"/>
 </p>
 <p>
-Step 1
+Select Add, Located above enable inheritance 
 </p>
 <p>
 <img src="https://i.imgur.com/pZXeJGb.png"height="80%" width="80%" alt=" Steps"/> 
 </p>
 <p>
-Step 2
+Type, everyone in the object name box 
 </p>
 <p>
 <img src="https://i.imgur.com/SznGEqw.png"/>
 </p>
 <p>
-Step 3
+Check all Basic Permissions
 </p>
 <p>
 <img src="https://i.imgur.com/BfZKELN.png"/>
 </p>
 <p>
-Step 4
+Notice, that the permissions to allow all users access has now been added.
 </p>
 <p>
 <img src="https://i.imgur.com/eEX5uG8.png"/>
+</p>
+<p>
+Select, Apply
 </p>
 <br />
 
