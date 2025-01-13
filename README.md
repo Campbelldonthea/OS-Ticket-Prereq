@@ -457,3 +457,69 @@ Select, Apply
 Now that we have changed the settings, the osTicket extensions are enabled. The ones that are not enabled at this point are not needed at this time.
 </p>
 <br />
+
+<h2>Step 4: Installation configuration of OS Ticket</h2>
+
+<p>
+<img src="https://i.imgur.com/tTdHZa6.png"/>
+</p>
+<p>
+Open the osTicket file folder that was downloaded to your desktop.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2x9hxFm.png"/>
+</p>
+<p>
+Open and install HEIDISQL .
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AAvn85F.png"/>
+</p>
+<p>
+Open HeidiSQL and Select create new.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Unq8fjJ.png"/>
+</p>
+<p>
+Once, folder opens enter the password of ROOT and open.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YqmNwmz.png"/>
+</p>
+<p>
+On the main page of SQL we will create a new data base.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZzQGmk2.png"/>
+</p>
+<p>
+Next, name the new database Os-Ticket
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TXtUUhf.png"/>
+</p>
+<p>
+Once created, we can navigate back to the MySQL database connection tab, complete the form, and install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6GEsLJO.png""/>
+</p>
+<p>
+If everything was set up correctly, we will be able to navigate to the osTicket website.
+</p>
+<br />
