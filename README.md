@@ -238,3 +238,35 @@ Extract and install PHP Manger.
 Rewrite AMD file
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/agePjuE.png"/>
+</p>
+<p>
+Once these files are downloaded, open File Explorer, navigate to the C: drive, create a new folder, and name it "PHP."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GORT89U.png"/>
+</p>
+<p>
+Extract the files from the zipped PHP file and move them into the newly created PHP folder in the C: drive.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Ft7otPN.png"/>
+</p>
+<p>
+Go back to the file folder for osTicket and download Microsoft Visual C++.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UQfApeT.png"/>
+</p>
+<p>
+Once that is complete, install MySQL.
+</p>
+<br />
