@@ -404,7 +404,7 @@ Select, Advanced.
 <img src="https://i.imgur.com/NBzgSDn.png"/>
 </p>
 <p>
-Select, Disable.
+Select, Disable inheritance.
 </p>
 <br />
 
@@ -417,22 +417,34 @@ Select, remove all inheritance.
 <br />
 
 <p>
+Now we will add permissions to allow all users access.
+</p>
+<p>
 <img src="https://i.imgur.com/2vyi0JU.png"/>
 </p>
 <p>
-<img src="https://i.imgur.com/pZXeJGb.png"/>
+Step 1
+</p>
+<p>
+<img src="https://i.imgur.com/pZXeJGb.png"height="80%" width="80%" alt=" Steps"/> 
+</p>
+<p>
+Step 2
 </p>
 <p>
 <img src="https://i.imgur.com/SznGEqw.png"/>
 </p>
 <p>
+Step 3
+</p>
+<p>
 <img src="https://i.imgur.com/BfZKELN.png"/>
 </p>
 <p>
-<img src="https://i.imgur.com/eEX5uG8.png"/>
+Step 4
 </p>
 <p>
-Now we will add permissions to allow all users access.
+<img src="https://i.imgur.com/eEX5uG8.png"/>
 </p>
 <br />
 
