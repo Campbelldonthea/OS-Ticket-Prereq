@@ -416,9 +416,8 @@ Select, remove all inheritance.
 </p>
 <br />
 
-<p>
-Now we will add permissions to allow all users access.
-</p>
+<h2>Step 4: Now we will add permissions to allow all users access.</h2>
+
 <p>
 <img src="https://i.imgur.com/2vyi0JU.png"/>
 </p>
