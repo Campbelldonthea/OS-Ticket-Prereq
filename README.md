@@ -363,7 +363,7 @@ Make sure the correct ones are enabled.
 <img src="https://i.imgur.com/M24mZOp.png"/>
 </p>
 <p>
-On your Windows C drive, navigate to `inetpub > wwwroot > osTicket > include`.
+On your Windows C drive, navigate to inetpub > wwwroot > osTicket > include.
 </p>
 <br />
 
@@ -413,5 +413,33 @@ Select, Disable.
 </p>
 <p>
 Select, remove all inheritance.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2vyi0JU.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/pZXeJGb.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/SznGEqw.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/BfZKELN.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/eEX5uG8.png"/>
+</p>
+<p>
+Now we will add permissions to allow all users access.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kkNUlaz.png"/>
+</p>
+<p>
+Now that we have changed the settings, the osTicket extensions are enabled. The ones that are not enabled at this point are not needed at this time.
 </p>
 <br />
