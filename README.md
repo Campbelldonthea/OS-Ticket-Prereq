@@ -312,7 +312,7 @@ Register new PHP.
 <br />
 
 <p>
-<img src="https://i.imgur.com/SGnTlsS.png"/>
+<img src="https://i.imgur.com/SGnTlsS.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
 Once done start and stop services to reset PHP.
