@@ -520,6 +520,6 @@ Once created, we can navigate back to the MySQL database connection tab, complet
 <img src="https://i.imgur.com/6GEsLJO.png""/>
 </p>
 <p>
-If everything was set up correctly, we will be able to navigate to the osTicket website.
+Congratulations, If everything was set up correctly, we will be able to navigate to the osTicket website.
 </p>
 <br />
