@@ -270,3 +270,53 @@ Go back to the file folder for osTicket and download Microsoft Visual C++.
 Once that is complete, install MySQL.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ua2tPGY.png"/>
+</p>
+<p>
+Once MySQL is downloaded, select the standard configuration.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MBoyAgH.png"/>
+</p>
+<p>
+Next, create a root password for the user.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZRmOwFH.png"/>
+</p>
+<p>
+Open Windows and run IIS Manager as an administrator.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ns7x8If.png"/>
+</p>
+<p>
+Once IIS manager is open navigate to PHP manager.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/yUvdkxu.png"/>
+</p>
+<p>
+Register new PHP.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SGnTlsS.png"/>
+</p>
+<p>
+Once done start and stop services to reset PHP.
+</p>
+<br />
+
+
