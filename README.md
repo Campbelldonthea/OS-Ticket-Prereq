@@ -412,11 +412,11 @@ Select, Disable inheritance.
 <img src="https://i.imgur.com/8kPyT70.png"/>
 </p>
 <p>
-Select, remove all inheritance.
+Select, remove all inherited permissions from this object.
 </p>
 <br />
 
-<h2>Step 4: Now we will add permissions to allow all users access.</h2>
+<h2>Step 3: Now we will add permissions to allow all users access.</h2>
 
 <p>
 <img src="https://i.imgur.com/2vyi0JU.png"/>
